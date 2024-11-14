@@ -12,4 +12,4 @@ Before this, I did my undergrad at Carleton College, where I majored in math and
 
 #### Improved Hardness-of-Approximation for Token Swapping
   With [Nicole Wein](https://web.eecs.umich.edu/~nswein/)
-  [[arXiv](https://arxiv.org/abs/2410.19638#:~:text=From%20the%20hardness%2Dof%2Dapproximation,ratio%20better%20than%2014%2F13.)]
+  \\[[arXiv](https://arxiv.org/abs/2410.19638#:~:text=From%20the%20hardness%2Dof%2Dapproximation,ratio%20better%20than%2014%2F13.)]
