@@ -1,6 +1,6 @@
 # Sam Hiken
 
-### Bio
+\[first initial\] \[last name\] at mit dot edu
 
 Hi! My name is Sam Hiken. I am currently a pre-doctoral researcher in the Theory of Computing group at MIT, where I am very fortunate to be advised by [Virginia Vassilevska Williams](https://people.csail.mit.edu/virgi/). I am generously funded by the [Paglia Post-Baccalaureate Fellowship](https://www.carleton.edu/fellowships/carleton-fellowships/research/paglia/).
 
